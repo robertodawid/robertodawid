@@ -1,5 +1,4 @@
-## Hi there 👋
-
+## Hi, I am Roberto
 I am an Energy System Modeler with over five years of expertise in developing quantitative models and conducting scenario analyses to support sustainable energy transitions. My work includes integrating renewable energy and data gaps, assessing decarbonization pathways, and formulating policy recommendations for governments and international organizations. I use open-source modeling tools such as OSeMOSYS‑GNU/pulp, Python, and R to deliver insights aligned with initiatives like NetZero and the state's climate neutrality goals.
 
 ### What do I use in my work?
