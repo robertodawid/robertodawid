@@ -9,6 +9,7 @@ I am an Energy System Modeler with over five years of expertise in developing qu
   <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626?logo=Jupyter&logoColor=white&style=plastic" height="25"/>
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=VisualStudioCode&logoColor=white&style=plastic" height="25"/>
   <img alt="Qgis" src="https://img.shields.io/badge/Qgis-589632?logo=Qgis&logoColor=white&style=plastic" height="25"/>
+  <img alt="OSeMOSYS" src="https://raw.githubusercontent.com/robertodawid/robertodawid/main/fig/copy_osemosys_logo.jpeg" height="25"/>
  
 </p>
 
