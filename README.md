@@ -9,9 +9,16 @@ I am an Energy System Modeler with over five years of expertise in developing qu
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=VisualStudioCode&logoColor=white&style=plastic" height="25"/>
   <img alt="Qgis" src="https://img.shields.io/badge/Qgis-589632?logo=Qgis&logoColor=white&style=plastic" height="25"/>
   <img alt="OSeMOSYS" src="https://raw.githubusercontent.com/robertodawid/robertodawid/main/fig/copy_osemosys_logo.jpeg" height="25"/>
- 
 </p>
 
+### Let's connect! 🖇
+I'm open for new projects and collaborations, so feel free to send me a message! Here is where you can find me:
+
+<a href="https://www.linkedin.com/in/roberto-david-heredia">
+  <img
+    alt="Linkedin"
+    src="https://img.shields.io/badge/Linkedin-0077B5?logo=linkedin&logoColor=white&style=plastic" height="25"
+  />
 <!--
 **robertodawid/robertodawid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
